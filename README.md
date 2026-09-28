@@ -1,6 +1,7 @@
 # Welcome to my writeups for CyLab Security Academy's CTF Challenges!
 ---
 <img width="2067" height="1076" alt="CyLab" src="https://github.com/user-attachments/assets/8617dcec-1416-42cc-ad58-eb2febbc005c" />
+
 Previously known as "*PicoCTF*" CyLab Security Academy hosts over **490+** challenges, with the categories being:
 **- Reverse Engineering**
 **- Web Exploitation**
