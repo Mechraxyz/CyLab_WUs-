@@ -2,16 +2,13 @@
 ---
 <img width="2067" height="1076" alt="CyLab" src="https://github.com/user-attachments/assets/8617dcec-1416-42cc-ad58-eb2febbc005c" />
 
-Previously known as "*PicoCTF*" CyLab Security Academy hosts over **490+** challenges, with the categories being:  
+Previously known as "*PicoCTF*" CyLab Security Academy hosts over **490+** challenges, with some of the categories being:  
 
-- **Reverse Engineering**
-- **Web Exploitation**
-- **Forensics**
-- **General Skills**
-- **Cryptography**
-- **Binary Exploitation**
-- **Blockchain**
-- **Artificial Intelligence**
+- **[Reverse Engineering](Reverse%20Engineering!)**
+- **[Web Exploitation](Web%20Exploitation!)**
+- **[Forensics](Forensics!)**
+- **[General Skills](General%20Skills!)**
+- **[Cryptography](Cryptography!)**
 
 Each challenge ranges on difficulty, going from "Easy" to "Hard".  
 Each difficulty taking significantly more time than the one below it.  
